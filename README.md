@@ -2,12 +2,11 @@
 ## 📝 Changelog
 
 ### Version 1.0.2.4
-- Fixed Steam executable finding logic
-- Improved Steam directory detection
-
+- Added Steam executable finding logic, tool will now find odyssey when installed with steam automatically.
+  
 ### Version 1.0.2.3
 - Fixed loot drop tweak functionality
-- Improved file entry system - now only requires path input if auto-detection fails
+- Improved file entry system - now only requires path input if auto-detection fails ie: dont have to give c:path/ACOdyssey.exe you can just give c:path/ and it will find the exe within that path.
 
 ## 🙏 Credits
 
