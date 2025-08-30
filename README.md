@@ -1,6 +1,11 @@
 
 ## 📝 Changelog
 
+### Version 1.0.2.5
+- Changed script to a tkinter GUI based script for ease of use.
+- Added infinite breathing underwater.
+- Added infinite boat rowe stamina.
+
 ### Version 1.0.2.4
 - Added Steam executable finding logic, tool will now find odyssey when installed with steam automatically.
   
