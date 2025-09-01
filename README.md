@@ -33,11 +33,20 @@ or you can you the gui and use the add/edit button, doing this will create the j
 
 This definitly has become a universal program for me to start adding all my games that i have multiple different mods/tweaks for. it is probably buggy and should just been made in c but o well.
 
+It should also be said the exe gets detected by some as a trojen, this is due to the nature of the way the tweaks are applied, they read the game exe and modify it, anti-virus softwares detect this kind of behavior as bad.
+
+If your scared to run the exe your free to get the python files in the source directory, look over them and run it that way, or compile the python files yourself into an exe using this command:
+python -m nuitka --onefile --enable-plugin=tk-inter --remove-output C:\path\to\main.py
+
 
 ## 📝 Changelog
 
 ### Version 1.0  REMAKE
 - Completely remade the gui and functionality supporting multiple games.(Vahndaar tweaks still implemented)
+
+
+---
+
 
 ### Version 1.0.2.5
 - Changed script to a tkinter GUI based script for ease of use.
