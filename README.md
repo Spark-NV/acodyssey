@@ -29,6 +29,7 @@ This option is for users who have Python installed and want to run the script di
 1.  **Download:**
     *   Navigate to the `source/` directory in the repository.
     *   Download the `main.py` file and all other folders within the `source` directory.
+    *   Or clone the repository to get all files at once.
 2.  **Run:**
     *   Open your command line or terminal.
     *   Navigate to the directory where you saved the files.
